@@ -1,7 +1,5 @@
-# Reconciliation-Spring-Boot-Web
+# Connect to SQL ReconDB
 
 + Build on Spring Boot
 
-+ Applied Tiles 3 Apache
-
-+ Connect to updated database RECONDB_UPDATE
++ Connect to updated database RECONDB_UPDATE (2 new tables User and Role)
