@@ -4,7 +4,6 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>upskills.sqlcon</groupId>
-	<artifactId>OCBCSQLConnection</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
 	<description>Spring Boot Reconciliation</description>
@@ -56,5 +55,6 @@
 		</plugins>
 	</build>
 
-	<name>OCBC SQL Connection</name>
+	<name>SQLConnection-Boot</name>
+	<artifactId>SQLConnection-Boot</artifactId>
 </project>
